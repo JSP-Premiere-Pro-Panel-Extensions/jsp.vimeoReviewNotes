@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionManifest Version="6.0" ExtensionBundleId="jsp.vimeoReviewNotes" ExtensionBundleVersion="1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ExtensionList>
+		<Extension Id="jsp.vimeoReviewNotes" Version="1.0" />
+	</ExtensionList>
+	<ExecutionEnvironment>
+		<HostList>
+			<Host Name="PPRO" Version="22.0" />
+		</HostList>
+		<LocaleList>
+			<Locale Code="All" />
+		</LocaleList>
+		<RequiredRuntimeList>
+			<RequiredRuntime Name="CSXS" Version="11.0" />
+		</RequiredRuntimeList>
+	</ExecutionEnvironment>
+	<DispatchInfoList>
+		<Extension Id="jsp.vimeoReviewNotes">
+			<DispatchInfo >
+				<Resources>
+					<MainPath>./index.html</MainPath>
+					<ScriptPath>./jsx/extendScript.jsx</ScriptPath>
+				</Resources>
+				<Lifecycle>
+					<AutoVisible>true</AutoVisible>
+				</Lifecycle>
+				<UI>
+					<Type>Panel</Type>
+					<Menu>Vimeo Review Notes</Menu>
+					<Geometry>
+						<Size>
+							<Height>600</Height>
+							<Width>300</Width>
+						</Size>
+					</Geometry>
+				</UI>
+			</DispatchInfo>
+		</Extension>
+	</DispatchInfoList>
+</ExtensionManifest>

@@ -96,7 +96,7 @@ The `Options` section of the panel provides a few choices to customize what info
 
 ### No undo functionality
 
-Markers generated using the panel extension cannot be removed using the traditional undo function.
+Markers generated using the panel extension cannot be removed using the traditional undo function. To remove markers, use Premiere's built in `Clear Selected Marker` or `Clear Markers`.
 
 ### No focal point information
 

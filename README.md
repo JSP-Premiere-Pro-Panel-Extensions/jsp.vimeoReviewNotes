@@ -41,7 +41,7 @@ If you need help creating or accessing a Vimeo review page, [see this guide](htt
 To download the current notes associated with a video, first type or paste your Vimeo review link for that video into the input field. 
 Then click the download icon to the right.
 
-![load notes](https://github.com/JSP-Premiere-Pro-Panel-Extensions/jsp.vimeoReviewNotes/blob/main/images/load_notes.png)
+![load notes](https://github.com/JSP-Premiere-Pro-Panel-Extensions/jsp.vimeoReviewNotes/blob/main/images/load-notes.png)
 
 NOTE: if you've uploaded multiple versions of the video, this method will only access notes made on the most recent version. 
 If you'd like to access all notes made on all versions of the video, use the following method.

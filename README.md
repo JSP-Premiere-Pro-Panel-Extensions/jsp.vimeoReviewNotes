@@ -52,7 +52,7 @@ This method requires a Vimeo review CSV file to be downloaded on your computer.
 To get the Vimeo review CSV file associated with a video, click the `...` and `Download CSV` buttons on the Vimeo review page for that video. 
 If you need help creating or accessing a Vimeo review page, [see this guide](https://vimeo.zendesk.com/hc/en-us/articles/224818367-Video-review-page-).
 
-![download CSV](https://github.com/JSP-Premiere-Pro-Panel-Extensions/jsp.vimeoReviewNotes/blob/main/images/download_csv.png)
+![download CSV](https://github.com/JSP-Premiere-Pro-Panel-Extensions/jsp.vimeoReviewNotes/blob/main/images/download-csv.png)
 
 To load notes from a Vimeo review CSV file, first click the `Load notes from CSV file` button. 
 Then, using the system dialog, navigate to the location of the Vimeo review CSV file and click the `Open` button.
@@ -64,12 +64,12 @@ To add markers to the active sequence based on the currently loaded notes, click
 NOTE: marker generation requires an active sequence. 
 If no sequence has been opened in Premiere, no markers will be generated.
 
-![generate markers](https://github.com/JSP-Premiere-Pro-Panel-Extensions/jsp.vimeoReviewNotes/blob/main/images/generate_markers.png)
+![generate markers](https://github.com/JSP-Premiere-Pro-Panel-Extensions/jsp.vimeoReviewNotes/blob/main/images/generate-markers.png)
 
 Marker information can be seen in the Premiere Pro `Markers` panel.
 Markers representing resolved notes will be white, and markers representing unresolved notes will be red.
 
-![markers panel](https://github.com/JSP-Premiere-Pro-Panel-Extensions/jsp.vimeoReviewNotes/blob/main/images/markers_panel.png)
+![markers panel](https://github.com/JSP-Premiere-Pro-Panel-Extensions/jsp.vimeoReviewNotes/blob/main/images/markers-panel.png)
 
 There are a few ways to customize the marker generation process.
 
